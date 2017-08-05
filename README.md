@@ -29,7 +29,7 @@ $mysqli = new mysqli("localhost", "Magist", "12345", "Magist");
 ```
 
 Эти данные необходимо заменить на свои.
-Пользуйтесь! По всем вопросам <vk.com/devlixbot> (Я всегда онлайн)
+Пользуйтесь! По всем вопросам <https://vk.com/devlixbot> (Я всегда онлайн)
 
 ----------ENGLISH PERSON-------------------
 
@@ -61,4 +61,4 @@ $mysqli = new mysqli ("localhost", "Magist", "12345", "Magist");
 ```
 
 These data must be replaced with their own.
-Use it! For all questions <vk.com/devlixbot> (I'm always online)
+Use it! For all questions <https://vk.com/devlixbot> (I'm always online)

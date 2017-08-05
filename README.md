@@ -7,7 +7,7 @@
 И так, В базе actos должны быть 7 столбцов
 id, vk_id, countr, search_act, gender, age, ivent
 
-И так, В базе replis должны быть 3 столбца
+В базе replis должны быть 3 столбца
 id, usr_id, iskaemoe
 
 Далее, после создания 2 таблиц actos и replis переходим к настройке.

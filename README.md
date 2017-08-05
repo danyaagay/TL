@@ -37,10 +37,10 @@ To work, you need 2 tables, actos and replis.
 You can create a database in PHPMyAdmin.
 
 And so, the action database should have 7 columns
-Id, vk_id, countr, search_act, gender, age, ivent
+id, vk_id, countr, search_act, gender, age, ivent
 
 The replis database must have 3 columns
-Id, usr_id, iskaemoe
+id, usr_id, iskaemoe
 
 Next, after creating the two tables actos and replis, go to the setup.
 All settings are in /tech/settings.php

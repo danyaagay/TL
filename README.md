@@ -62,3 +62,5 @@ $mysqli = new mysqli ("localhost", "Magist", "12345", "Magist");
 
 These data must be replaced with their own.
 Use it! For all questions <https://vk.com/devlixbot> (I'm always online)
+
+![screenshot of sample](http://www.imageup.ru/img215/2827780/1wdfn3n8p8o.jpg)

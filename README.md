@@ -13,6 +13,7 @@ id, usr_id, iskaemoe
 Далее, после создания 2 таблиц actos и replis переходим к настройке.
 Все настройки находятся в /tech/settings.php
 
+```php
 //Строка для подтверждения адреса сервера из настроек Callback API 
 $confirmation_token = ''; 
 
@@ -25,9 +26,10 @@ $groupid = 123456789;
 
 //Данные базы
 $mysqli = new mysqli("localhost", "Magist", "12345", "Magist");
+```
 
 Эти данные необходимо заменить на свои.
-Пользуйтесь! По всем вопросам vk.com/devlixbot (Я всегда онлайн)
+Пользуйтесь! По всем вопросам <vk.com/devlixbot> (Я всегда онлайн)
 
 ----------ENGLISH PERSON-------------------
 
@@ -43,6 +45,7 @@ Id, usr_id, iskaemoe
 Next, after creating the two tables actos and replis, go to the setup.
 All settings are in /tech/settings.php
 
+```php
 // callback API
 $confirm_token = '';
 
@@ -55,6 +58,7 @@ $groupid = 123456789;
 
 // Database data
 $mysqli = new mysqli ("localhost", "Magist", "12345", "Magist");
+```
 
 These data must be replaced with their own.
-Use it! For all questions vk.com/devlixbot (I'm always online)
+Use it! For all questions <vk.com/devlixbot> (I'm always online)

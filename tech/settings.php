@@ -14,7 +14,7 @@ $ustoken = '';
 //ИД группы
 $groupid = 123456789;
 
-//анные базы
+//Данные базы
 $mysqli = new mysqli("localhost", "Magist", "12345", "Magist");
 if ($mysqli->connect_errno) {
     echo "Не удалось подключиться к MySQL: (" . $mysqli->connect_errno . ") " . $mysqli->connect_error;
